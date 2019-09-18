@@ -1,5 +1,6 @@
 # AWS-LAMBDA-LAYER-Selenium
 This is a Selenium Layer for AWS Lambda, it is ready to use.
+Tested on python3.6
 
 To start it you need only to know how to start it.
 here is a quick start
